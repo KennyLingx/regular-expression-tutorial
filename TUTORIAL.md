@@ -1,5 +1,4 @@
-# REGEX TUTORIAL
-This this a tutorial to explain how Regular Expressions, commonly known as Regex, work. In this tutorial, I use a regex to match an email address.
+# Regular-Expression-Tutorial
 
 ## Summary
 Regex are used to declare a sequence of characters that define a search pattern of a text. As such, we can use regex to find any type of user input on a webpage. Regex allows programmers to specificifally target characters in a text and narrow down a type of input such as email addresses, telephone numbers, usernames... In this tutorial, I will be using email addresses as the text type to demonstrate how Regex work. 
