@@ -3,7 +3,14 @@
 ## Summary
 Regex are used to declare a sequence of characters that define a search pattern of a text. As such, we can use regex to find any type of user input on a webpage. Regex allows programmers to specificifally target characters in a text and narrow down a type of input such as email addresses, telephone numbers, usernames... In this tutorial, I will be using email addresses as the text type to demonstrate how Regex work. 
 
-
+## Table of Contents
+- [Anchors](#anchors)
+- [Quantifiers](#quantifiers)
+- [Character Classes](#character-classes)
+- [Grouping and Capturing](#grouping-and-capturing)
+- [Bracket Expressions](#bracket-expressions)
+- [Greedy Match](#greedy-match)
+- 
 ## Regex Components for an Email Address Input
 For an email address pattern, we will use the following regex components:
 `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`
